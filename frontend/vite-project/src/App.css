@@ -1,0 +1,55 @@
+*{
+  margin:0;
+}
+
+.container {
+  border: solid;
+  border-color: black;
+  height:100vh;
+  display: grid;
+  place-items: center; 
+  height: 100vh;
+  
+}
+.h1{
+  padding: 5cap;
+  margin-top: 50cap;
+  size: 10cap;
+}
+.myquote-box {
+  border: solid;
+  border-color: black;
+ margin-bottom: 30cap;
+  width: 500px;
+  background-color: white;
+}
+
+.quotetext{
+  
+  height :auto;
+  padding:30px;
+  font-family:cursive;
+  font-size: 20px;
+}
+
+.writername{
+  float: right;
+  margin: 30px;
+}
+
+.newquotebutton{
+  margin:10px;
+  float: right;
+  padding:10px;
+  border: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.social-media-buttons{
+  margin: 10px;
+  padding:10px;
+  border: solid;
+  border-color: black;
+  cursor: pointer;
+}
